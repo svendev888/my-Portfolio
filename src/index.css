@@ -3,3 +3,13 @@ body {
   background: #f7f7fb;
   font-family: Inter, Arial, Helvetica, sans-serif;
 }
+
+html {
+  scroll-behavior: smooth;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  html {
+    scroll-behavior: auto;
+  }
+}
