@@ -256,7 +256,6 @@ function App() {
                     </a>
                   </p>
                 )}
-                <a className="btn" href="#contact">Contact Me</a>
               </div>
             </article>
           ))}
