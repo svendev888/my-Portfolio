@@ -127,7 +127,7 @@ function App() {
       subtitle: 'LOCAL BUSINESS • UI • 2026',
       projectUrl: 'https://example.com/restoration-services',
       text: 'Emergency-focused layout with strong service messaging and action-driven contact structure.',
-      tags: ['Shopify', 'Layout', 'Optimization'],
+      tags: ['Custom Code', 'Layout', 'Optimization'],
     },
     {
       kind: 'image',
