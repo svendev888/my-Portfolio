@@ -131,15 +131,6 @@ function App() {
     },
     {
       kind: 'image',
-      src: '/portfolio/shopify-pdp-1.png',
-      title: 'High-Converting Shopify PDP',
-      subtitle: 'Custom Shopify PDP built for merchandising clarity, persuasive content, and checkout readiness.',
-      projectUrl: 'https://example.com/high-converting-shopify-pdp',
-      text: 'Product page concept built around conversion psychology, visual selling blocks, and buying confidence.',
-      tags: ['PDP', 'Custom Code', 'CRO', 'Shopify'],
-    },
-    {
-      kind: 'image',
       src: '/portfolio/mushmush-pdp-1.png',
       title: 'Mushmush',
       subtitle: 'Shopify PDP redesign focused on hierarchy, CRO testing, and mobile-first purchase flow.',
@@ -155,6 +146,15 @@ function App() {
       projectUrl: 'https://example.com/shopify-filter-variant-demo',
       text: 'Developed and maintained a custom Shopify theme for an eCommerce store, improving navigation, product pages, and overall UX. Integrated third-party tools for reviews, affiliate tracking, and customer support, and enabled multi-currency features using Shopify Markets. Collaborated on external 3D product builder integration and optimized storefront performance.',
       tags: ['Shopify', 'Custom Code', 'Variant UX'],
+    },    
+    {
+      kind: 'image',
+      src: '/portfolio/shopify-pdp-1.png',
+      title: 'High-Converting Shopify PDP',
+      subtitle: 'Custom Shopify PDP built for merchandising clarity, persuasive content, and checkout readiness.',
+      projectUrl: 'https://example.com/high-converting-shopify-pdp',
+      text: 'Product page concept built around conversion psychology, visual selling blocks, and buying confidence.',
+      tags: ['PDP', 'Custom Code', 'CRO', 'Shopify'],
     },
   ]
 
