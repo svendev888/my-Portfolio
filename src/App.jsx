@@ -97,7 +97,7 @@ function App() {
       kind: 'image',
       src: '/portfolio/PFSParts.jpg',
       title: 'PartsForVolvosOnline eCommerce Store',
-      subtitle: 'Automotive eCommerce Platform • Information Architecture • SEO Strategy • Frontend Performance Optimization',
+      subtitle: 'VOLVO PARTS • UX • SEO • PERFORMANCE',
       projectUrl: 'https://www.partsforvolvosonline.com/',
       text: 'Developed and optimized a specialist Volvo parts ecommerce storefront with clearer category navigation, improved product discovery, and performance-focused frontend updates to support conversions and repeat customers.',
       tags: ['eCommerce', 'Automotive', 'UX/UI', 'SEO'],
@@ -106,7 +106,7 @@ function App() {
       kind: 'image',
       src: '/portfolio/dieselprobrands-com.webp',
       title: 'DieselPro Brands eCommerce Website',
-      subtitle: 'B2C Automotive eCommerce Experience • Conversion-Oriented UX • Technical SEO • Scalable Frontend Delivery',
+      subtitle: 'AUTOMOTIVE PARTS • UX • SEO • 2026',
       projectUrl: 'https://dieselprobrands.com/',
       text: 'Built and optimized an automotive parts ecommerce experience with clear category discovery, promotional merchandising blocks, and mobile-friendly product navigation to improve engagement, trust, and conversions.',
       tags: ['eCommerce', 'Automotive', 'UX/UI', 'SEO'],
@@ -115,7 +115,7 @@ function App() {
       kind: 'image',
       src: '/portfolio/expert-network.webp',
       title: 'Expert Network Service Website',
-      subtitle: 'Professional Services Website • CMS Architecture • Credibility-Focused UI • Lead Generation Journey',
+      subtitle: 'CORPORATE • CMS • 2026',
       projectUrl: 'https://example.com/expert-network-service',
       text: 'Service website designed for professional credibility, clean navigation, and better lead generation flow.',
       tags: ['CMS', 'WordPress', 'Web Design'],
@@ -124,7 +124,7 @@ function App() {
       kind: 'image',
       src: '/portfolio/disaster-services.webp',
       title: 'Restoration Services Website',
-      subtitle: 'Local Services Website • High-Intent Landing UX • Trust-Centered Messaging • Conversion Flow Optimization',
+      subtitle: 'LOCAL BUSINESS • UI • 2026',
       projectUrl: 'https://example.com/restoration-services',
       text: 'Emergency-focused layout with strong service messaging and action-driven contact structure.',
       tags: ['Custom Code', 'Layout', 'Optimization'],
@@ -133,7 +133,7 @@ function App() {
       kind: 'image',
       src: '/portfolio/shopify-pdp-1.png',
       title: 'High-Converting Shopify PDP',
-      subtitle: 'Shopify Product Detail Page Engineering • Custom Components • Conversion Psychology • Mobile-First UX',
+      subtitle: 'PDP • CUSTOM CODE • 2026',
       projectUrl: 'https://example.com/high-converting-shopify-pdp',
       text: 'Product page concept built around conversion psychology, visual selling blocks, and buying confidence.',
       tags: ['PDP', 'Custom Code', 'CRO', 'Shopify'],
@@ -142,7 +142,7 @@ function App() {
       kind: 'image',
       src: '/portfolio/mushmush-pdp-1.png',
       title: 'Mushmush PDP Redesign',
-      subtitle: 'Shopify PDP Redesign • Content Hierarchy Optimization • CRO Framework • Purchase Confidence Signals',
+      subtitle: 'REDESIGN • CRO • 2026',
       projectUrl: 'https://mushmush.com.au/',
       text: 'A full product-page redesign for improved information hierarchy, engagement, and conversion rate optimization.',
       tags: ['Shopify', 'Redesign', 'CRO'],
@@ -151,7 +151,7 @@ function App() {
       kind: 'image',
       src: '/portfolio/Dynamice%20Varian.png',
       title: 'Shopify Dynamic Variant Selection',
-      subtitle: 'Shopify Variant Selection System • Custom Product Logic • UX Clarity Improvements • Faster Purchase Decisions',
+      subtitle: 'SHOPIFY • CUSTOM VARIANTS • 2026',
       projectUrl: 'https://example.com/shopify-filter-variant-demo',
       text: 'Custom Shopify variant-selection experience focused on clearer product options, faster decision making, and better mobile usability.',
       tags: ['Shopify', 'Custom Code', 'Variant UX'],
@@ -282,8 +282,7 @@ function App() {
                 <strong>Backend:</strong> .NET, ASP.NET Core, Node.js, Express, REST, GraphQL, Django, FastAPI<br />
                 <strong>Ecommerce:</strong> Shopify, Shopify Plus, headless commerce, custom Shopify apps<br />
                 <strong>Cloud &amp; DevOps:</strong> AWS, Azure, Docker, Kubernetes, GitHub Actions, GitLab CI<br />
-                <strong>Auth &amp; data:</strong> OAuth2, JWT, PostgreSQL, MongoDB
-                <strong>Tools:</strong> GitHub, Webpack, Vite
+                <strong>Auth &amp; data:</strong> OAuth2, JWT, PostgreSQL, MongoDB • <strong>Tools:</strong> GitHub, Webpack, Vite
               </p>
             </div>
             <div className="skill-box">
