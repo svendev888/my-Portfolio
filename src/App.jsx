@@ -156,18 +156,6 @@ function App() {
       text: 'Custom Shopify variant-selection experience focused on clearer product options, faster decision making, and better mobile usability.',
       tags: ['Shopify', 'Custom Code', 'Variant UX'],
     },
-    {
-      kind: 'video',
-      title: 'Theme Fixes Walkthrough',
-      subtitle: 'VIDEO WALKTHROUGH • 2026',
-      projectUrl: 'https://example.com/shopify-theme-fixes',
-      text: 'Quick project demo of theme fixes and UX improvements done to streamline shopping flow.',
-      tags: ['Theme Fix', 'Frontend', 'UX'],
-      sources: [
-        { src: '/portfolio/theme-fixes-demo.mp4', type: 'video/mp4' },
-        { src: '/portfolio/theme-fixes-demo.mov', type: 'video/quicktime' },
-      ],
-    },
   ]
 
   return (
