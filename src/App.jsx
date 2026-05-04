@@ -96,11 +96,11 @@ function App() {
     {
       kind: 'image',
       src: '/portfolio/PFSParts.jpg',
-      title: 'Custom Shopify WooCommerce Website',
-      subtitle: 'SEO • CRO • PERFORMANCE • 2026',
-      projectUrl: 'https://example.com/custom-shopify-woocommerce',
-      text: 'Built a custom Shopify WooCommerce ecommerce website focused on speed, scalability, and conversions through mobile-first UX, streamlined checkout, Core Web Vitals optimization, and SEO-ready architecture.',
-      tags: ['Shopify', 'WooCommerce', 'SEO', 'CRO'],
+      title: 'PartsForVolvosOnline eCommerce Store',
+      subtitle: 'VOLVO PARTS • UX • SEO • PERFORMANCE',
+      projectUrl: 'https://www.partsforvolvosonline.com/',
+      text: 'Developed and optimized a specialist Volvo parts ecommerce storefront with clearer category navigation, improved product discovery, and performance-focused frontend updates to support conversions and repeat customers.',
+      tags: ['eCommerce', 'Automotive', 'UX/UI', 'SEO'],
     },
     {
       kind: 'image',
