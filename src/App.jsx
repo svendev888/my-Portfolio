@@ -136,7 +136,7 @@ function App() {
       subtitle: 'PDP • CUSTOM CODE • 2026',
       projectUrl: 'https://example.com/high-converting-shopify-pdp',
       text: 'Product page concept built around conversion psychology, visual selling blocks, and buying confidence.',
-      tags: ['PDP', 'Custom Code', 'CRO', ],
+      tags: ['PDP', 'Custom Code', 'CRO', 'Shopify'],
     },
     {
       kind: 'image',
