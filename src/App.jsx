@@ -141,10 +141,10 @@ function App() {
     {
       kind: 'image',
       src: '/portfolio/mushmush-pdp-1.png',
-      title: 'Mushmush PDP Redesign',
+      title: 'Mushmush',
       subtitle: 'Shopify PDP redesign focused on hierarchy, CRO testing, and mobile-first purchase flow.',
       projectUrl: 'https://mushmush.com.au/',
-      text: 'A full product-page redesign for improved information hierarchy, engagement, and conversion rate optimization.',
+      text: 'Built and customized a Shopify storefront for a wellness eCommerce brand, focusing on Liquid-based theme development and responsive UI. Integrated subscriptions, bundles, and multiple payment options including Shop Pay and PayPal, while enhancing product discovery with Splide.js sliders. Improved performance and user experience across mobile and desktop.',
       tags: ['Shopify', 'Redesign', 'CRO'],
     },
     {
