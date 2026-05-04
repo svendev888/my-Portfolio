@@ -150,10 +150,10 @@ function App() {
     {
       kind: 'image',
       src: '/portfolio/Dynamice%20Varian.png',
-      title: 'Shopify Dynamic Variant Selection',
+      title: 'KISTLER',
       subtitle: 'Shopify variant-selection build with custom logic, better discoverability, and smoother cross-device UX.',
       projectUrl: 'https://example.com/shopify-filter-variant-demo',
-      text: 'Custom Shopify variant-selection experience focused on clearer product options, faster decision making, and better mobile usability.',
+      text: 'Developed and maintained a custom Shopify theme for an eCommerce store, improving navigation, product pages, and overall UX. Integrated third-party tools for reviews, affiliate tracking, and customer support, and enabled multi-currency features using Shopify Markets. Collaborated on external 3D product builder integration and optimized storefront performance.',
       tags: ['Shopify', 'Custom Code', 'Variant UX'],
     },
   ]
